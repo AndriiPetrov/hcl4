@@ -1,0 +1,18 @@
+/* div{
+    text-align:center;
+} */
+#canvas1{
+    /* width: 300px; */
+    /* height: 300px; */
+    margin: auto;
+    border: solid 1px black;
+    display: block;
+    margin-bottom: 10px;
+}
+#canvas2{
+    width: 400px;
+    height: 250px;
+    margin: auto;
+    border: solid 1px black;
+    display: block;
+}
